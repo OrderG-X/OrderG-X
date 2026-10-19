@@ -1,13 +1,15 @@
 ### 你好 👋 我是 OrderG-X
 
-我给 DeepSeek Harness（DSH）做插件，下面四个都开源、免费，装上就能用。更多 DSH 插件见 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)。
-<br>I build plugins for DeepSeek Harness (DSH). All four below are open source and free. More DSH plugins: awesome-dsh-plugin.
+我给 DeepSeek Harness（DSH）做插件，下面五个都开源、免费，装上就能用。更多 DSH 插件见 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)。
+<br>I build plugins for DeepSeek Harness (DSH). All five below are open source and free. More DSH plugins: awesome-dsh-plugin.
 
 <a href="https://github.com/OrderG-X/dsh-chrome-bridge"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-chrome-bridge/main/assets/hero.svg" alt="dsh-chrome-bridge" width="760" /></a>
 
 <a href="https://github.com/OrderG-X/dsh-mac-computer-use"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-mac-computer-use/main/assets/hero.svg" alt="dsh-mac-computer-use" width="760" /></a>
 
 <a href="https://github.com/OrderG-X/dsh-design-studio"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-design-studio/main/assets/hero.svg" alt="dsh-design-studio" width="760" /></a>
+
+<a href="https://github.com/OrderG-X/dsh-mobile"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-mobile/main/assets/hero.svg" alt="dsh-mobile" width="760" /></a>
 
 <a href="https://github.com/OrderG-X/dsh-video-preview"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-video-preview/main/assets/hero.svg" alt="dsh-video-preview" width="760" /></a>
 
