@@ -1,7 +1,7 @@
 ### 你好 👋 我是 OrderG-X
 
-我给 [DeepSeek Harness](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)（DSH）做插件，下面四个都开源、免费，装上就能用。
-<br>I build plugins for DeepSeek Harness (DSH). All four below are open source and free.
+我给 DeepSeek Harness（DSH）做插件，下面四个都开源、免费，装上就能用，也都收录在 [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) 插件目录里。
+<br>I build plugins for DeepSeek Harness (DSH). All four below are open source, free, and listed in awesome-dsh-plugin.
 
 <a href="https://github.com/OrderG-X/dsh-chrome-bridge"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-chrome-bridge/main/assets/hero.svg" alt="dsh-chrome-bridge" width="760" /></a>
 
