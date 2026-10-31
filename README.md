@@ -15,8 +15,8 @@
 
 <a href="https://github.com/OrderG-X/dsh-pages"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-pages/main/assets/hero.svg" alt="dsh-pages" width="760" /></a>
 
-**怎么装**：DSH 侧栏 → 插件 → 添加插件 → 粘贴仓库 README 里的安装链接 → 重启 DSH。
-<br>**Install**: DSH sidebar → Plugins → Add plugin → paste the install link from the repo's README → restart DSH.
+**怎么装**：DSH 侧栏 → 插件 → 添加插件 → 填仓库 README 里的包名 → 重启 DSH。连不上 npm 会自动换国内镜像。
+<br>**Install**: DSH sidebar → Plugins → Add plugin → enter the package name from the repo's README → restart DSH.
 
 ### 其他项目 · Other projects
 
