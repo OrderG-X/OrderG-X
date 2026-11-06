@@ -7,7 +7,7 @@
 
 <a href="https://github.com/OrderG-X/dsh-mac-computer-use"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-mac-computer-use/main/assets/hero.svg" alt="dsh-mac-computer-use" width="760" /></a>
 
-<a href="https://github.com/OrderG-X/dsh-design-studio"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-design-studio/main/assets/hero.svg" alt="dsh-design-studio" width="760" /></a>
+<a href="https://github.com/OrderG-X/dsh-design-studio"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-design-studio/341394ac607af64faf9fa1c8dc177456b3b7c991/assets/hero.svg" alt="dsh-design-studio" width="760" /></a>
 
 <a href="https://github.com/OrderG-X/dsh-mobile"><img src="https://raw.githubusercontent.com/OrderG-X/dsh-mobile/main/assets/hero.svg" alt="dsh-mobile" width="760" /></a>
 
